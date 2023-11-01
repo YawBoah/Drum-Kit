@@ -29,7 +29,7 @@ Our **Awesome Drum Kit** isn't just about making beats; it's about having fun, f
 
 ## 🙌 Special Shoutout 🙌
 
-A massive thank you to **Dr. Angela Yu** for her incredible course [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/), making learning web development an exciting and colorful journey. 🌈👩‍🏫
+A massive thank you to **Dr. Angela Yu** for her incredible course [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) making learning web development an exciting and colorful journey. 🌈👩‍🏫
 
 ## 🎶 Unleash Your Inner Drummer 🎶
 
