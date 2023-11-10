@@ -32,7 +32,5 @@ So what are you waiting for? Get ready to feel the groove, create amazing beats,
 Whether you're a music pro or just tapping away for fun, this drum kit will have you smiling and vibing to your unique rhythms! 🤩🥁
 
 So, are you ready to make some music magic? Let's roll! 🥁🎉🤟
-
 ---
-
 🌟 **Feel free to customize and make this README even more exciting with your unique touches and emojis!** 🌟
