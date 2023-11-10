@@ -15,7 +15,6 @@ Experience music like never before with the **Awesome Drum Kit**! 🌈🥁 Here'
 3. **Magical Animations**: Watch the buttons come to life with cool animations as you tap away - it's like a mini light show right at your fingertips! 🌟✨
 
 ## 🌈 Fun for Everyone 🌈
-
 Our **Awesome Drum Kit** isn't just about making beats; it's about having fun, feeling the groove, and creating music with a splash of color and a pinch of joy. 🤗🎉
 
 ## 🚀 What Powers the Magic? 🚀
