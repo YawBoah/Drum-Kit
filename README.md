@@ -18,7 +18,6 @@ Experience music like never before with the **Awesome Drum Kit**! 🌈🥁 Here'
 Our **Awesome Drum Kit** isn't just about making beats; it's about having fun, feeling the groove, and creating music with a splash of color and a pinch of joy. 🤗🎉
 
 ## 🚀 What Powers the Magic? 🚀
-
 - **HTML**: We used it to structure our virtual drum kit.
 - **CSS**: Adding style and vibrant visuals that make your eyes pop! 🎨👀
 - **JavaScript**: The brains behind the operation, turning your clicks and taps into drum beats! 💡🥁
