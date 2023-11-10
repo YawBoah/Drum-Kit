@@ -6,7 +6,6 @@ Dive into the world of music with a vibrant burst of colors, funky drum sounds, 
 ![image](https://github.com/YawBoah/Drum-Kit/assets/126890146/be797455-f590-4d73-b5af-df86136a65bb)
 
 ## 🎵 Let's Rock 'n Roll 🎵
-
 Experience music like never before with the **Awesome Drum Kit**! 🌈🥁 Here's how to unleash the beats:
 
 1. **Click 'n Play**: Use your mouse to click the colorful drum buttons and bring the sounds to life! 🖱️🥁
