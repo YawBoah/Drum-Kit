@@ -7,7 +7,6 @@ Dive into the world of music with a vibrant burst of colors, funky drum sounds, 
 
 ## 🎵 Let's Rock 'n Roll 🎵
 Experience music like never before with the **Awesome Drum Kit**! 🌈🥁 Here's how to unleash the beats:
-
 1. **Click 'n Play**: Use your mouse to click the colorful drum buttons and bring the sounds to life! 🖱️🥁
 
 2. **Keyboard Beats**: Feel like a rockstar by hitting the keys 'W', 'A', 'S', 'D', 'J', 'K', and 'L' on your keyboard to jam out your own rhythms! 🎹🎶
