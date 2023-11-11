@@ -1,6 +1,5 @@
 # 🥁 The Awesome Drum Kit 🥁 
 Welcome to the 🥁 **Awesome Drum Kit** 🥁 - Where Rhythm Meets Magic! 🌟🎶
-
 Dive into the world of music with a vibrant burst of colors, funky drum sounds, and playful beats that'll make you feel like a professional drummer in no time! 🔥🤘
 
 ![image](https://github.com/YawBoah/Drum-Kit/assets/126890146/be797455-f590-4d73-b5af-df86136a65bb)
